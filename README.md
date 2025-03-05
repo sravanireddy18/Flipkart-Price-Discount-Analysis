@@ -38,11 +38,6 @@ Ratings & Reviews
 
 🚀 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/your-username/flipkart-pricing-analysis.git
-cd flipkart-pricing-analysis
-
 Install dependencies:
 
 pip install -r requirements.txt
